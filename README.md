@@ -12,6 +12,8 @@ Build vertically collapsing accordions in combination with our Collapse JavaScri
 
 --------------------
 
+## Check more examples in the official documentation:
+
 [📄 Documentation & usage guide](https://mdbootstrap.com/docs/standard/components/accordion/)
 
 ---------------------
